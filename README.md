@@ -1,2 +1,2 @@
-# AI-Pile
-AI Pile, Pile Design by Artificial Intelligence
+# AI Pile
+Pile Design by Artificial Intelligence
